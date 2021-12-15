@@ -1,0 +1,29 @@
+#navbar {
+   
+    position: fixed; /* Make it stick/fixed */
+    top: 0px; /* Hide the navbar 50 px outside of the top view */
+    width: 99.5%; /* Full width */
+    transition: top 0.4s; /* Transition effect when sliding down (and up) */
+	border:4px solid;
+	border-radius:15px;
+	z-index: 99999;
+
+}
+
+/* Style the navbar links */
+#navbar a {
+    float: centre;
+    display: block;
+    color: blue;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+}
+
+#navbar a:hover {
+    background-color: red;
+    color: black;
+}
+
+
+/* Created By Mukul Wadhwa */   

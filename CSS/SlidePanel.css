@@ -1,0 +1,27 @@
+ #flip {
+    padding: 5px;
+    text-align: center;
+	color:white;
+    background-color: black;   /* Created By Mukul Wadhwa */   
+    border: solid 1px #c3c3c3;
+	border-radius:8px;
+    cursor: pointer;
+	width:20%;}
+	
+
+}
+
+
+#panel,{
+    padding: 5px;
+    text-align: center;
+	color: white;
+    background-color: black;
+    border: solid 1px red;	
+
+}
+
+#panel {
+    padding: 50px;
+    display: none;
+}

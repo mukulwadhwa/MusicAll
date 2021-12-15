@@ -1,0 +1,97 @@
+body {  background-image: url("images/009.jpg");
+		
+		background-position: middle;
+		margin-right:5px;
+		margin-left:5px;
+		margin-top:10px;
+		margin-bottom:10px;
+		font-family: "Forte";
+
+    background-attachment: fixed;
+		
+		
+		}
+		
+p{color:black;}
+		
+.uinfo	{display: block;
+		color:;
+		font-size:45px;
+		height:150px;
+		width:300px;
+		border-style: solid;
+		border-width: 6px;
+		border-radius:8px;
+}
+
+table { font-family: "Forte";
+		width:100%;
+		border:2px;
+		border-color:red;
+	
+		}
+		
+td,th { 
+		text-align: center;
+		padding: -10px;
+		font-size: 25;
+		background-color:Black;
+		}
+		
+div_gen {
+    	display: block;
+		color:;
+		font-size:25px;
+		border-style: solid;
+		border-width: 2px;
+		border-left: 4px silver;
+		background-color: white;
+		
+	
+	}
+	
+.hline {display: block;
+		border-color:black;
+		background-color:black;
+		font-size:15px;
+		border-style: solid;
+		border-width: 1px;
+		
+		border-radius: 8px;
+		
+		font-family: "Forte";
+		}
+		
+input {height:30px;}
+	
+video {height:90%;
+	   width:100%;
+	   border-style: solid;
+	   border-width:3px;
+	   border-color:red;
+	   position: relative;
+	   padding:0;
+	   }
+	
+
+.coupon {
+    border: 5px solid #bbb; /* Dotted border */
+    width: 80%;
+    border-radius: 15px; /* Rounded border */
+    margin: 0 auto; /* Center the coupon */
+    width: 210px;
+}
+
+.container {
+  
+    background-color: #f1f1f1;
+}
+
+.promo {
+    background: #ccc;
+    padding: 3px;
+}
+
+	
+	
+	/* Created By Mukul Wadhwa */   
